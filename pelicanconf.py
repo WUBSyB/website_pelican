@@ -23,7 +23,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (('CCTB', 'http://cctb.uni-wuerzburg.de/'),
          ('Bioinformatics Department',
           'http://www.bioinfo.biozentrum.uni-wuerzburg.de/home/'),
-         ('IMIB', 'http://imib-wuerzburg.de/'))
+         ('IMIB', 'http://imib-wuerzburg.de/'),
+         ('Hacky Hour Würzburg', 'https://hackyhour.github.io/Wuerzburg/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/WUBSyB'),)
