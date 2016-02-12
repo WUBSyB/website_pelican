@@ -9,13 +9,14 @@ Basics:
 
 1) Generate HTML file
 
-$ make html
-
+    $ make html
 
 2) Start local web server at http://localhost:8000/
 
-$ make serve
+    $ make serve
 
-TODO
 
-3) make publish
+
+3) TODO Publish
+
+    $ make XXX
